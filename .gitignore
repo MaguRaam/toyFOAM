@@ -1,0 +1,6 @@
+# Build directories
+linux*Gcc*/
+
+# lnInclude (symlink) directories
+lnInclude
+
