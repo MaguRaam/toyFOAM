@@ -13,3 +13,9 @@ foamNewBC -help
 foamNewBC -fixedValue -all pulseFixedValue
 ```
 
+To build a library
+```bash
+cd pulseFixedValue
+wmake
+
+Now we can edit it to our taste
